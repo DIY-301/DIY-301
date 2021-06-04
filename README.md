@@ -49,7 +49,7 @@ be reporting him for our lovely instructor and I know that all of us may differ 
 5. Getting a published feature.
 6. Release at the end.
 
-**2 people at least will review the PR and the leader will merge to main and by each finished feature I'll merge that work and I'll report other team members and meet if possible to commit the merge**
+**two Individuals at least will review the PR and the leader will merge to main and by each finished feature I'll merge that work and I'll report other team members and meet if possible to commit the merge**
 
 
 
